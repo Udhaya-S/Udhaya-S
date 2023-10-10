@@ -1,6 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently pursuving B.tech information technology<br>👯 I’m looking to collaborate on back-end developer<br>🤝 I’m looking for help with open source projects<br>🌱 I’m currently learning mern stack<br>⚡ Fun fact
-
+ 🔭 I’m currently pursuing B.tech in Information Technology.
+ 👯 I’m looking to collaborate on backend development projects.
+ 🤝 I’m seeking help with open source projects and expanding my coding skills.
+ 🌱 I’m currently learning MERN (MongoDB, Express.js, React.js, Node.js) stack.
+ ⚡ Fun facts about me:
+  I love experimenting with new coding languages and technologies.
+  I enjoy solving algorithmic challenges in my free time.
+  I am a coffee enthusiast and can't start my day without a good cup of coffee.
+  I have a passion for open source contributions and community-driven projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ellas_s.men) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Udhaya-kumar-admin) 
